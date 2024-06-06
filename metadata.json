@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "PRATHAMZ"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "ChatGPT @ Your fingerprints.",
+        "Icon": "applications-internet",
+        "Id": "com.samirgaire10.chatgpt-plasma6",
+        "License": "GPL-2.0+",
+        "Name": "chat gpt",
+        "Website": "https://github.com/tagging-danger/com.tagging-danger.chatgpt.git",
+        "github": "https://github.com/tagging-danger/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
